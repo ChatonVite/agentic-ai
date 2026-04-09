@@ -171,12 +171,11 @@ exit && docker compose restart
 
 ## 关于作者
 
-**彭靖田** — 谷歌 AI 开发者专家（GDE）· 上海载极数据创始人兼 CEO
+**彭靖田** — 连续创业者
 
-- 浙江大学竺可桢荣誉学院毕业，加州大学访问学者
-- 前华为 2012 实验室深度学习团队研究员
-- 连续创业者：联合创办品览数据（AlphaDraw，累计融资近 2 亿元）；另有公司被字节跳动/火山引擎收购
-- TensorFlow Contributor · Kubeflow Maintainer · CNCF 程序委员会成员
+- 浙江大学竺可桢学院毕业，加州大学访问学者
+- 谷歌 AI 开发者专家（GDE），谷歌出海创业加速器导师
+- TensorFlow Contributor · Kubeflow Maintainer
 - 畅销书《深入理解 TensorFlow》作者
 - 极客时间 AI 课程累计培训超 10 万学员
 
